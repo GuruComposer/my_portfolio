@@ -201,7 +201,7 @@ const bigProjects = {
       subtitle: "Fully functioning Email-Application with database.",
       image: require("./assets/images/gmailLogo.png"),
       footerLink: [
-        { name: "Live", url: "https://gurucomposer.github.io/react-ToDoList/" },
+        { name: "Live", url: "https://myawesomegmailclone.herokuapp.com/" },
         { name: "GitHub", url: "https://github.com/GuruComposer/gmail-clone" },
       ]
     },
@@ -210,7 +210,7 @@ const bigProjects = {
       subtitle: "Fully functioning eBay-Application with database.",
       image: require("./assets/images/ebayLogo.png"),
       footerLink: [
-        { name: "Live", url: "https://gurucomposer.github.io/react-ToDoList/" },
+        { name: "Live", url: "https://github.com/GuruComposer/eBay-clone" },
         { name: "GitHub", url: "https://github.com/GuruComposer/eBay-clone" },
       ]
     },
