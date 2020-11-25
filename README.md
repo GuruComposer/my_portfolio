@@ -1,3 +1,3 @@
-This is my software engineering portfolio. Please enjoy. Thank you.
+This is my software engineering portfolio website. Please enjoy. Thank you.
 
-### Live: 
+### Live: https://gurucomposer.github.io/my_portfolio/
