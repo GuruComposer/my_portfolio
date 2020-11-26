@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "461f7e958cd738ce648f9f681f81c2ed",
+    "revision": "c369e50547a8e3a5fcfe7c9e57c15044",
     "url": "/my_portfolio/index.html"
   },
   {
-    "revision": "26ea1be6153ffe073500",
+    "revision": "96542016ff0f8f29c0e3",
     "url": "/my_portfolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "a22bf240f7ed5a5d2d0f",
+    "revision": "a09a604c890cdfa2bf2d",
     "url": "/my_portfolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "910ecd6fce02f78fc0f0",
+    "revision": "21e2546f6d3e431d7e3c",
     "url": "/my_portfolio/static/css/main.53121d5b.chunk.css"
   },
   {
-    "revision": "c65d405084cc25921138",
-    "url": "/my_portfolio/static/js/2.632754cd.chunk.js"
+    "revision": "d1b5381f41c826391d38",
+    "url": "/my_portfolio/static/js/2.b73132d9.chunk.js"
   },
   {
-    "revision": "26ea1be6153ffe073500",
-    "url": "/my_portfolio/static/js/3.58a94dfe.chunk.js"
+    "revision": "96542016ff0f8f29c0e3",
+    "url": "/my_portfolio/static/js/3.13ead9c1.chunk.js"
   },
   {
-    "revision": "a22bf240f7ed5a5d2d0f",
-    "url": "/my_portfolio/static/js/4.fe2145d3.chunk.js"
+    "revision": "a09a604c890cdfa2bf2d",
+    "url": "/my_portfolio/static/js/4.8b3235c2.chunk.js"
   },
   {
-    "revision": "910ecd6fce02f78fc0f0",
-    "url": "/my_portfolio/static/js/main.dc5272ec.chunk.js"
+    "revision": "21e2546f6d3e431d7e3c",
+    "url": "/my_portfolio/static/js/main.2f199aff.chunk.js"
   },
   {
-    "revision": "4e6a544a286197cc113f",
-    "url": "/my_portfolio/static/js/runtime-main.99f258f9.js"
+    "revision": "cc68e3260cbd8e59b7af",
+    "url": "/my_portfolio/static/js/runtime-main.49b03bab.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/my_portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "3c4a4c0325f1f83f424705c6412588c8",
+    "url": "/my_portfolio/static/media/WesProfessional.3c4a4c03.jpg"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
