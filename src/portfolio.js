@@ -210,7 +210,7 @@ const bigProjects = {
       subtitle: "Fully functioning eBay-Application with database.",
       image: require("./assets/images/ebayLogo.png"),
       footerLink: [
-        { name: "Live", url: "https://github.com/GuruComposer/eBay-clone" },
+        { name: "Live", url: "https://myawesomeebayclone.herokuapp.com/" },
         { name: "GitHub", url: "https://github.com/GuruComposer/eBay-clone" },
       ]
     },
