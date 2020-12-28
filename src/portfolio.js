@@ -199,10 +199,10 @@ const bigProjects = {
 			image: require("./assets/images/amazon.png"),
 			footerLink: [
 				{ name: "Live", url: "https://clone-41556.firebaseapp.com/" },
-				// {
-				// 	name: "GitHub",
-				// 	url: "https://clone-41556.firebaseapp.com/",
-				// },
+				{
+					name: "GitHub",
+					url: "https://github.com/GuruComposer/amazon-clone",
+				},
 			],
 		},
 		{
