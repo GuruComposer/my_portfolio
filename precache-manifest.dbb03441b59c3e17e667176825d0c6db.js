@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d6795c0a0d9498d190e0f0dcc5b029c",
+    "revision": "9840418c843aa72684d6e3f0fe191593",
     "url": "/my_portfolio/index.html"
   },
   {
-    "revision": "ca0d0bba83895b7b9fc6",
+    "revision": "1fc008bc6f850ab53bf9",
     "url": "/my_portfolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "e1787ef6e53444cefe87",
+    "revision": "3625e61819bfe5ee8337",
     "url": "/my_portfolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "5875c297627dd066c291",
+    "revision": "75539dec83e92309111f",
     "url": "/my_portfolio/static/css/main.53121d5b.chunk.css"
   },
   {
-    "revision": "ec685c827b4c52630efc",
-    "url": "/my_portfolio/static/js/2.5954b7ca.chunk.js"
+    "revision": "c343c694c243b1182582",
+    "url": "/my_portfolio/static/js/2.8ec4fbb3.chunk.js"
   },
   {
-    "revision": "ca0d0bba83895b7b9fc6",
-    "url": "/my_portfolio/static/js/3.3a902a30.chunk.js"
+    "revision": "1fc008bc6f850ab53bf9",
+    "url": "/my_portfolio/static/js/3.1b8a2af4.chunk.js"
   },
   {
-    "revision": "e1787ef6e53444cefe87",
-    "url": "/my_portfolio/static/js/4.571f5692.chunk.js"
+    "revision": "3625e61819bfe5ee8337",
+    "url": "/my_portfolio/static/js/4.e87aeb03.chunk.js"
   },
   {
-    "revision": "5875c297627dd066c291",
-    "url": "/my_portfolio/static/js/main.2264a1ed.chunk.js"
+    "revision": "75539dec83e92309111f",
+    "url": "/my_portfolio/static/js/main.e26f76ea.chunk.js"
   },
   {
-    "revision": "f60b56e198e94aa147f8",
-    "url": "/my_portfolio/static/js/runtime-main.2914a2d7.js"
+    "revision": "5955ff93452448e00b96",
+    "url": "/my_portfolio/static/js/runtime-main.0144565c.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/my_portfolio/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "51a2b615791a987a46af18beed1ac882",
+    "url": "/my_portfolio/static/media/spotify.51a2b615.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
